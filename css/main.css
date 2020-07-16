@@ -1,0 +1,73 @@
+/* global */
+
+body {
+	font-family: 'Oswald', sans-serif;
+	font-size: 1.25rem;
+  letter-spacing: .01em;
+  line-height: 1.6em;
+  font-weight: 300;
+}
+
+h1, .h1 {
+	font-size: 5rem;
+	font-weight: bold;
+	margin-bottom: 3.5rem;
+}
+
+h2, .h2 {
+	font-size: 4rem;
+	font-weight: bold;
+	margin-bottom: 4rem;
+}
+
+h3, .h3 {
+	font-size: 2rem;
+	font-weight: bold;
+	margin-bottom: 2rem;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5 {
+	text-transform: uppercase;
+}
+
+.lead {
+	/*font-size: 1.4rem;*/
+	font-size: 120%;
+}
+
+a {
+	color: red;
+}
+
+a:hover {
+	color: #ad1616;
+	text-decoration: none;
+}
+
+.list-no-style,
+.list-no-style li {
+	list-style: none;
+	padding: 0;
+}
+
+li {
+	margin-bottom: 1.2rem;
+}
+
+#main {
+	/*border-radius: 50px;
+	box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);*/
+	/*margin: 20px;*/
+}
+
+.section {
+
+}
+
+.bg-light-grey {
+	background: #f2f2f2;
+}
